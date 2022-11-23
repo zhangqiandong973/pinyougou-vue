@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue2_project"]=self["webpackChunkvue2_project"]||[]).push([[167],{1167:function(e,u,n){n.r(u),n.d(u,{default:function(){return o}});var r=function(){var e=this,u=e._self._c;return u("div",[e._v("团购内容")])},t=[],l={name:"GroupOrder"},c=l,s=n(1001),f=(0,s.Z)(c,r,t,!1,null,null,null),o=f.exports}}]);
